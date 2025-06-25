@@ -48,7 +48,7 @@ How do we know if our model is any good? We use several metrics:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/dearabhin/girlfriend-predictor.git](https://github.com/dearabhin/girlfriend-predictor.git)
+    git clone https://github.com/dearabhin/girlfriend-predictor.git
     cd girlfriend-predictor
     ```
 2.  **Create a virtual environment (recommended):**

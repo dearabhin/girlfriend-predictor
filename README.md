@@ -5,8 +5,8 @@ _A fun, educational classification project by Abhin Krishna to solve a B.Tech st
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HCgPxf3gdnqQyZgHvqao9dZHn53QUv7D?usp=sharing)
 
 <p align="center">
-  <img src="correction-heatmap.png" alt="Image 1" height="200">
-  <img src="confusion-matrix.png" alt="Image 2" height="200">
+  <img src="correction-heatmap.png" alt="Image 1" height="547">
+  <img src="confusion_matrix.png" alt="Image 2" height="547">
 </p>
 
 ## 🧐 Overview

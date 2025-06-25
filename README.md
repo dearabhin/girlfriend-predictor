@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="heatmap.png" alt="Girlfriend Predictor" width="100%">
+  <img src="summary.png" alt="Girlfriend Predictor" width="100%">
 </p>
 
 ---

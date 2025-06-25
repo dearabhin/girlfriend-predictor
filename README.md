@@ -4,6 +4,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HCgPxf3gdnqQyZgHvqao9dZHn53QUv7D?usp=sharing)
 
+![Thumbnail](correction-heatmap.png)
+
 ## 🧐 Overview
 
 As a B.Tech student at Model Engineering College, I decided to apply machine learning to a critical classification problem: **Will I get a girlfriend in college?**
